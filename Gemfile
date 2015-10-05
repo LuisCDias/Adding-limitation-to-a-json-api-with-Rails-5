@@ -39,3 +39,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Memcached
 gem 'dalli', '~> 2.7.4'
+
+# Limit requests
+gem 'rack-attack'
